@@ -68,9 +68,7 @@ font-family: 'DynaPuff', cursive;
 }
 
 .navdiv {
-  position: absolute;
-  left: 50%;
-  bottom: 200px;
+
   transform: translate(-50%, -50%);
 }
 
