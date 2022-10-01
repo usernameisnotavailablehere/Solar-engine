@@ -230,44 +230,50 @@ form input {
 background-color: #131620;
 width: 700px;
 border-radius: 11px;
-margin-left: 22px;
+margin: auto;
 padding: 50px;
-
+display: block;
 }
 
 .item img {
 	width: 100px;
     height: 100px;
-    margin-left: 1px;
+
     margin-top: 30px;
 	display: grid;
-	float: left;
+	float: right;
 
 }
 .item img {
     border-radius: 8px;
-	
+		width: 100px;
+    height: 100px;
+    display: block;
+  margin:auto;
 }
 
 img{
     width: 300px;
     height: 200px;
-    justify-content: left;
-    display: flex; 
+    vertical-align: center;
+    display: grid; 
 	
 }
 
-   .item {
-    display: grid;
-    margin-left: 60px;
-	
-  }
+.item {
+  display: grid;
+  display: block;
+  margin:auto;
+  margin: auto;
+
+}
 
   div.item {
-    vertical-align: top;
+  
     display: inline-block;
     width: 188px;
-    margin-left: 2px;
+    margin: auto;
+  
 
 }
 
