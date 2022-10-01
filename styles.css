@@ -257,7 +257,7 @@ form input {
 	color: #5a4aed;
 	font-size: 18px;
 	border: 1px solid #dddddd;
-	margin-top: -1px;
+
 	background-color: transparent;
 	padding: 20px;
 	transition: 0.2s ease;
@@ -273,4 +273,53 @@ form input {
 
 #glist::-webkit-scrollbar {
 	display: none;
+}
+
+.item img {
+	width: 50px;
+    height: 50px;
+    margin-left: 1px;
+    margin-top: 30px;
+	display: grid;
+	float: left;
+
+}
+.item img {
+border-radius: 8px;
+	
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    justify-content: left;
+    display: flex; 
+    border-radius: 8px;
+
+	
+}
+
+   .item {
+    display: grid;
+    margin-left: 60px;
+	
+  }
+
+  div.item {
+    vertical-align: top;
+    display: inline-block;
+    width: 188px;
+    margin-left: 2px;
+
+}
+
+
+.loader {
+  border: 16px solid#1b1f2e; /* Light grey */
+  border-top: 16px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  margin-left: 500px;
 }
