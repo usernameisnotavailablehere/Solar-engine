@@ -201,93 +201,76 @@ form input {
 
 
 .container {
-	font-family: 'Quicksand', sans-serif;
-	position: absolute;
-	left: 28%;
-	top: center;
+	padding: 20px;
 }
 
-
+.box {
+	margin: auto;
+	background-color: transparent;
+	padding: 10px;
+	width: 400px;
+  border-radius: 50px;
+}
 
 #glist {
 	overflow-x: hidden;
 	overflow-y: scroll;
-	width: 800px;
-	height: 465px;
+	width: 400px;
+	height: 520px;
 	padding: 0;
 	text-align: center;
-	border-radius: 12px;
-	font-family: 'Quicksand', sans-serif;
+}
 
+#gsearchbar {
+	outline: none;
+	width: 374px;
+	font-size: 16px;
+  border: solid #5a4aed;
+	padding: 12px;
+	margin-bottom: 10px;
+	transition: 0.2s ease;
+  background-color: transparent;
+  margin: auto;
+  border-radius: 14px;
+}
+
+#gsearchbar:focus {
+	background-color:transparent;
+	box-shadow: inset 0 0 5px 1px rgba(228, 227, 227, 0.4);
+}
+
+#glist h2 {
+	display: block;
+	color: white;
+	font: 18px;
+	border: 1px solid #5a4aed;
+	margin: -1px 0 0 0;
+	background-color: #5a4aed;
+	padding: 12px;
+	font-weight: bold;
+	user-select: none;
+}
+
+#glist a {
+	display: block;
+	text-decoration: inherit;
+	color: #5a4aed;
+	font-size: 18px;
+	border: 1px solid #dddddd;
+	margin-top: -1px;
+	background-color: transparent;
+	padding: 20px;
+	transition: 0.2s ease;
+  margin-top: 10px;
+  border-radius: 14px;
+
+}
+
+#glist a:hover {
+	text-shadow: 0 0 5px rgba(255, 255, 255, 0.4);
 }
 
 
 #glist::-webkit-scrollbar {
 	display: none;
 }
-
-.box {
-background-color: #131620;
-width: 700px;
-border-radius: 11px;
-margin: auto;
-padding: 50px;
-display: block;
-}
-
-.item img {
-	width: 100px;
-    height: 100px;
-
-    margin-top: 30px;
-	display: grid;
-	float: right;
-
-}
-.item img {
-    border-radius: 8px;
-		width: 100px;
-    height: 100px;
-    display: block;
-  margin:auto;
-}
-
-img{
-    width: 300px;
-    height: 200px;
-    vertical-align: center;
-    display: grid; 
-	
-}
-
-.item {
-  display: grid;
-  display: block;
-  margin:auto;
-  margin: auto;
-
-}
-
-  div.item {
-  
-    display: inline-block;
-    width: 188px;
-    margin: auto;
-  
-
-}
-
-
-.loader {
-  border: 16px solid#1b1f2e; /* Light grey */
-  border-top: 16px solid #3498db; /* Blue */
-  border-radius: 50%;
-  width: 120px;
-  height: 120px;
-  animation: spin 2s linear infinite;
-  margin-left: 500px;
-}
-
-
-
-
