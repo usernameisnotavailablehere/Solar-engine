@@ -172,7 +172,7 @@ window.alert = (message, color, callback) => {
 };
 
 function main() {
-  var apps = document.querySelector(".navbar").childNodes;
+ /* var apps = document.querySelector(".navbar").childNodes;
 
   apps.forEach(app => {
     app.addEventListener("click", (e) => {
@@ -181,7 +181,7 @@ function main() {
       if (id == "index") route = "/";
       window.location.assign(route);
     });
-  });
+  });*/
 
   if (window.self == window.top) {
     const openAb = () => {
