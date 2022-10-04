@@ -332,3 +332,7 @@ img{
   animation: spin 2s linear infinite;
   margin-left: 500px;
 }
+
+
+
+inupt::focus {color: #5a4aed}
