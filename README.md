@@ -1,8 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Heyo!;Im+a+HTML+and+CSS+coder)](https://git.io/typing-svg)
 
-<h1 align="center">
-Rena Network | RN
-</h1>
+<div align="center">
+<h1>Rena Network</h1>
+<h3>V3 | A unblocked site for surfing the web without censorship</h3>
+<p>
+Credits:
+
+Rena/Krish:Founder/owner
+
+Jewels:designer/helper
+
+System:Former Head Developer
+ </p>
+
 
 <p align="center">
 <a target="_blank" href="https://discord.gg/zxeTgRc5rF">Discord</a> · 
@@ -45,15 +55,3 @@ Host your own version
 </a>
 
 
-<div align="center">
-<h1>Rena Network</h1>
-<h3>V3 | A unblocked site for surfing the web without censorship</h3>
-<p>
-Credits:
-
-Rena/Krish:Founder/owner
-
-Jewels:designer/helper
-
-System:Former Head Developer
- </p>
