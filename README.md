@@ -23,8 +23,8 @@ Host your own version
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/renagamer101/renagamer101.github.io)
 
 
- <a target="_blank" href="https://discord.gg/zxeTgRc5rF">
-<img width="200px" alt="Join our Discord" src="https://raw.githubusercontent.com/3kh0/3kh0.github.io/master/img/Join_Discord-logo.png">
+ <a target="_blank" href="https://discord.gg/XWnD8TjwSj">
+<img width="200px" alt="Join our Discord" src="https://imgs.search.brave.com/q8rGO1RKfWSDedeKfisWNmqISe4CrZn-clOWHNtSDdc/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5D/U2pkSmp5aDBUMnd1/UEg4UHRUN2FnSGFF/SyZwaWQ9QXBp">
 </a>
 
 
