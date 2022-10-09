@@ -336,3 +336,16 @@ img{
 
 
 inupt::focus {color: #5a4aed}
+
+
+
+
+footer {
+  margin-top: auto;
+  width: 93%;
+  align-self: center;
+  height: 80px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
