@@ -1,3 +1,8 @@
+:root {
+	--text-color: #ffffff;
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
 
 @keyframes slideIn {
@@ -241,6 +246,7 @@ form input {
 #gsearchbar {
 	outline: none;
 	width: 374px;
+	color: var(--text-color);
 	font-size: 16px;
   border: solid #5a4aed;
 	padding: 12px;
