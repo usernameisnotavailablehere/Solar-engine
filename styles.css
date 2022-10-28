@@ -205,7 +205,7 @@ form input {
   background: none;
   font-family: 'DynaPuff', cursive;
   height: 48px;
-  color: var(--text-color);
+  color: white;
   border-radius: 3px;
   outline: none;
   width: 250px;
@@ -245,7 +245,7 @@ form input {
 #gsearchbar {
 	outline: none;
 	width: 374px;
-	color: var(--text-color);
+	color: white;
 	font-size: 16px;
   border: solid #5a4aed;
 	padding: 12px;
