@@ -49,11 +49,11 @@ body {
 
 
 .title {
-  line-height: 400px;
+  line-height: 25vw;
   text-align: center;
   margin: auto;
   
-  font-size: 150px;
+  font-size: 11vw;
   color: #5a4aed;
 font-family: 'DynaPuff', cursive;
 
@@ -228,16 +228,17 @@ form input {
 	margin: auto;
 	background-color: transparent;
 	padding: 10px;
-	width: 400px;
+	width: 40vw;
   border-radius: 50px;
 }
 
 #glist {
 	overflow-x: hidden;
 	overflow-y: scroll;
-	width: 400px;
-	height: 520px;
+	width: 40vw;
+	height: 100%;
 	padding: 0;
+	margin: auto;
 	text-align: center;
 }
 
@@ -277,6 +278,7 @@ form input {
 	text-decoration: inherit;
 	color: #5a4aed;
 	font-size: 30px;
+	word-break: break-word;
 	border: 1px solid #dddddd;
 
 	background-color: transparent;
