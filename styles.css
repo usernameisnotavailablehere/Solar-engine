@@ -1,6 +1,3 @@
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
 
 @keyframes slideIn {
@@ -49,11 +46,11 @@ body {
 
 
 .title {
-  line-height: 25vw;
+  line-height: 400px;
   text-align: center;
   margin: auto;
   
-  font-size: 11vw;
+  font-size: 150px;
   color: #5a4aed;
 font-family: 'DynaPuff', cursive;
 
@@ -205,7 +202,7 @@ form input {
   background: none;
   font-family: 'DynaPuff', cursive;
   height: 48px;
-  color: white;
+  color: var(--text-color);
   border-radius: 3px;
   outline: none;
   width: 250px;
@@ -228,24 +225,23 @@ form input {
 	margin: auto;
 	background-color: transparent;
 	padding: 10px;
-	width: 40vw;
+	width: 400px;
   border-radius: 50px;
 }
 
 #glist {
 	overflow-x: hidden;
 	overflow-y: scroll;
-	width: 40vw;
-	height: 100%;
+	width: 400px;
+	height: 520px;
 	padding: 0;
-	margin: auto;
 	text-align: center;
 }
 
 #gsearchbar {
 	outline: none;
 	width: 374px;
-	color: white;
+	color: var(--text-color);
 	font-size: 16px;
   border: solid #5a4aed;
 	padding: 12px;
@@ -278,7 +274,6 @@ form input {
 	text-decoration: inherit;
 	color: #5a4aed;
 	font-size: 30px;
-	word-break: break-word;
 	border: 1px solid #dddddd;
 
 	background-color: transparent;
@@ -364,5 +359,3 @@ footer {
   justify-content: left;
   align-items: center;
 }
-
-
