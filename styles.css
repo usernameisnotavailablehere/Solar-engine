@@ -93,12 +93,13 @@ i {
   .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #16192b;
+  background-color:#16192b ;
   min-width: 200px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   font-size: 30px;
   font-family: 'DynaPuff', cursive;
+
   
   }
   
@@ -204,18 +205,20 @@ form input {
   background: none;
   font-family: 'DynaPuff', cursive;
   height: 48px;
-  color: var(--text-color);
+  color: white;
   border-radius: 3px;
   outline: none;
   width: 250px;
   margin: auto;
   margin-top: auto;
-  border: 1px solid rgba(253, 253, 253, 0.514);
+  border: 2px solid white;
   text-align: center;
   display: flex;
   justify-content: center;
   margin: auto;
   bottom: 100px;
+  font: 5px;
+ 
 }
 
 
@@ -242,7 +245,7 @@ form input {
 
 #gsearchbar {
 	outline: none;
-	width: 399px;
+	width: 379px;
 	color: var(--text-color);
 	font-size: 16px;
   border: solid white;
@@ -311,8 +314,8 @@ border-radius: 8px;
 }
 
 img{
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
    
 
     border-radius: 8px;
