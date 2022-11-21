@@ -38,7 +38,9 @@ canvas {
 }
 
 body {
-  background-color: #1e1e2e;
+  background-image: url(./Skills.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   font-family: 'DynaPuff', cursive;
   font-weight: 400;
 
@@ -51,7 +53,7 @@ body {
   margin: auto;
   
   font-size: 150px;
-  color: #5a4aed;
+  color: white;
 font-family: 'DynaPuff', cursive;
 
 
@@ -63,7 +65,7 @@ font-family: 'DynaPuff', cursive;
 h2{
   text-align: center;
   font-size: 20px;
-  color: #5a4aed;
+  color: white;
 }
 
 
@@ -75,7 +77,7 @@ i {
 }
 .dropbtn {
   background-color:transparent;
-  color:#5a4aed;
+  color:white;
   padding: 16px;
   font-size: 60px;
   border: none;
@@ -101,7 +103,7 @@ i {
   }
   
   .dropdown-content a {
-  color: #5a4aed;
+  color: white;
   padding: 20px 30px;
   text-decoration: none;
   display: block;
@@ -140,7 +142,7 @@ justify-content: center;
 
 .navbar {
   text-align: center;
-  border: 6px solid #5a4aed;
+  border: 6px solid white;
   border-radius: 10px;
   width: 300px;
   height: 50px;
@@ -171,7 +173,7 @@ justify-content: center;
   border-radius: 10px;
   width: 150px;
   text-align: center;
-  border:#5a4aed;
+  border:white;
  
   
 
@@ -243,7 +245,7 @@ form input {
 	width: 399px;
 	color: var(--text-color);
 	font-size: 16px;
-  border: solid #5a4aed;
+  border: solid white;
 	padding: 12px;
 	margin-bottom: 10px;
 	transition: 0.2s ease;
@@ -261,9 +263,9 @@ form input {
 	display: block;
 	color: white;
 	font: 18px;
-	border: 1px solid #5a4aed;
+	border: 1px solid white;
 	margin: -1px 0 0 0;
-	background-color: #5a4aed;
+	background-color:white;
 	padding: 12px;
 	font-weight: bold;
 	user-select: none;
@@ -272,7 +274,7 @@ form input {
 #glist a {
 	display: block;
 	text-decoration: inherit;
-	color: #5a4aed;
+	color: white;
 	font-size: 30px;
 	border: 1px solid #dddddd;
 
