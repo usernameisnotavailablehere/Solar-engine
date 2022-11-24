@@ -138,8 +138,8 @@ window.alert = (message, color, callback) => {
   var alertBox = document.createElement("div");
 
   alertBox.style = `
-  animation-duration: 3s;
-  animation-name: slideIn;
+  animation-duration: 0.0001s;
+  animation-name: show;
   animation-iteration-count: 1;
   animation-direction: alternate;`
 
@@ -154,11 +154,11 @@ window.alert = (message, color, callback) => {
       if (e.target.nodeName = "p") {
         element = e.target.parentElement;
       }
-      element.style.animation = "3s 1 alternate slideOut";
+      element.style.animation = "0s 1 alternate slideOut";
       callback();
     } else {
       element = t;
-      element.style.animation = `3s 1 alternate slideOut`;
+      element.style.animation = `0s 1 alternate slideOut`;
     }
 
     setTimeout(() => { element.remove(); }, 3000);
