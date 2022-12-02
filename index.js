@@ -134,7 +134,7 @@ window.goToUvPage = function(url, method) {
 }
 
 window.alert = (message, color, callback) => {
-  if (!color) color = "#16192b";
+  if (!color) color = "#262626";
   var alertBox = document.createElement("div");
 
   alertBox.style = `
