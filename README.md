@@ -9,7 +9,7 @@
 
 <p align="center">
 <a target="_blank" href="https://discord.gg/zxeTgRc5rF">Discord</a> · 
-<a target="_blank" href="https://rnv3.pages.dev">Live site</a>
+<a target="_blank" href="https://sites.google.com/view/canvas-for-students/solar-home">Coming Soon</a>
 
 </p>
 
