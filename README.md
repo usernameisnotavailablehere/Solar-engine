@@ -4,15 +4,7 @@
 <h1>Rena Network</h1>
 <h3>A unblocked site for surfing the web without censorship</h3>
 
-<br>
-<center><h1>Credits</h1></center>
-<br>
-Rena: Founder/Owner
-<br>
-Jewels: Designer/Helper
-<br>
-System: Former Head Developer
- </p>
+
 
 
 <p align="center">
