@@ -23,11 +23,6 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/renagamer101/renagamer101.github.io)
 
 <br>
-<hr>
-<br>
-<h1>Contributers!</h1>
- <a href="https://github.com/renagamer101/renagamer101.github.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=renagamer101/renagamer101.github.io" />
-</a>
+
 
 
