@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Im+V1V!D;I+am+css%2Chtml+and+coder+mostly+css+and+html;i+am+apart+of+the+Unblocking+community+check+me+out+at++https%3A%2F%2Fdiscord.gg%2FXWnD8TjwSj;and+https%3A%2F%2Frnv3.pages.dev)](https://git.io/typing-svg)
 
 <div align="center">
-<h1>=Solar Engine</h1>
+<h1>|Solar Engine|</h1>
 <h3>A unblocked site for surfing the web without censorship</h3>
 
 
